@@ -10,3 +10,5 @@ The goal when developing the protocol is to find the best parameters that minimi
 ![alt text](https://github.com/VijayMaraviya/Charging-Process-Modelling/blob/master/Input%20and%20output%20of%20the%20charging%20process.png)
 
 The objective of this project is to leverage the GBatteries’ dataset to develop a model of a charging process where inputs are charging parameters and outputs are degradation indicator and speed. The model that explains the functional relationship of degradation indicator and charging speed with charging parameters would provide the most value. An explainable model can be used to form an optimization problem to find the best parameters.
+
+Read more in the [a relative link](Project Report.pdf)
